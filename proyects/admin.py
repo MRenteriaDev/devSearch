@@ -6,3 +6,4 @@ from .models import Project, Tag, Review
 admin.site.register(Project)
 admin.site.register(Tag)
 admin.site.register(Messages)
+admin.site.register(Review)
